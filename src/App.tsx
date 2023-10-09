@@ -25,7 +25,7 @@ function App() {
       </div>
     );
   };
-
+  // https://www.youtube.com/watch?v=fq7k_gVV5x8&t=162s 60 min
   const router = createBrowserRouter([
     {
       path: "/",
